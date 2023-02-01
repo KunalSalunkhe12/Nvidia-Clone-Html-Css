@@ -6,7 +6,7 @@ A Static One page Nvidia Clone Created Using HTML & CSS.
 
 ## Demo
 
-Site👉: https://kunalsalunkhe12.github.io/Nvidia-Clone-Html-Css/
+Site👉: https://kunalsalunkhe12-nvidia-clone-html-css.netlify.app/
 
 
 
